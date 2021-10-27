@@ -39,8 +39,8 @@ Method | Route | Description
 ## Setup Docker
 
 ```
-$ git clone ?
-$ cd ?
+$ git clone https://github.com/orkhanigidov/ChatApp.git
+$ cd ChatApp
 $ docker-compose up
 $ cp .env.example .env
 ```
